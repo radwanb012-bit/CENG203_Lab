@@ -8,6 +8,7 @@ Queue::Queue()
     front = nullptr;
     rear = nullptr;
     count = 0;
+
 }
 
 Queue::~Queue()
