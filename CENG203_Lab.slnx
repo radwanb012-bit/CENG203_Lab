@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CENG203_Lab/CENG203_Lab.vcxproj" Id="6a1dbc4c-6c8f-49af-afb5-8e2099ecf66f" />
+</Solution>
