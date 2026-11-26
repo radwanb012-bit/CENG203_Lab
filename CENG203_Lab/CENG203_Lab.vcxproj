@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{15895a85-4e44-4485-8281-b6ea1671bf75}</ProjectGuid>
+    <ProjectGuid>{6A1DBC4C-6C8F-49AF-AFB5-8E2099ECF66F}</ProjectGuid>
     <RootNamespace>CENG203Lab</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
