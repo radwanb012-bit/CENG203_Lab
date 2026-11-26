@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{6a1dbc4c-6c8f-49af-afb5-8e2099ecf66f}</ProjectGuid>
+    <ProjectGuid>{15895a85-4e44-4485-8281-b6ea1671bf75}</ProjectGuid>
     <RootNamespace>CENG203Lab</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -141,19 +141,21 @@
   <ItemGroup>
     <ClCompile Include="Heap\MaxHeap.cpp" />
     <ClCompile Include="Heap\PriorityQueue.cpp" />
-    <ClCompile Include="Labs\Week02.cpp" />
-    <ClCompile Include="Labs\Week03.cpp" />
-    <ClCompile Include="Labs\week04.cpp" />
-    <ClCompile Include="Labs\week05.cpp" />
+    <ClCompile Include="Labs\Week04.cpp" />
+    <ClCompile Include="Labs\Week05.cpp" />
     <ClCompile Include="Labs\Week06.cpp" />
     <ClCompile Include="Labs\Week07.cpp" />
-    <ClCompile Include="LinkedList\LinkedList.cpp" />
+    <ClCompile Include="LinkedList\DoublyLinkedList.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="Queue\CircularQueue.cpp" />
-    <ClCompile Include="Queue\Queue.cpp" />
+    <ClCompile Include="Labs\Week02.cpp" />
+    <ClCompile Include="Labs\Week03.cpp" />
+    <ClCompile Include="LinkedList\LinkedList.cpp" />
+    <ClCompile Include="LinkedList\CircularList.cpp" />
     <ClCompile Include="Recursion\Recursion.cpp" />
-    <ClCompile Include="Stack\ArrayStack.cpp" />
     <ClCompile Include="Stack\Stack.cpp" />
+    <ClCompile Include="Stack\ArrayStack.cpp" />
+    <ClCompile Include="Queue\Queue.cpp" />
+    <ClCompile Include="Queue\CircularQueue.cpp" />
     <ClCompile Include="Tree\BST.cpp" />
     <ClCompile Include="Tree\ExpressionTree.cpp" />
     <ClCompile Include="Tree\TreeUtils.cpp" />
@@ -162,13 +164,16 @@
     <ClInclude Include="Heap\MaxHeap.h" />
     <ClInclude Include="Heap\PriorityQueue.h" />
     <ClInclude Include="Labs\Labs.h" />
-    <ClInclude Include="LinkedList\LinkedList.h" />
     <ClInclude Include="LinkedList\Node.h" />
-    <ClInclude Include="Queue\CircularQueue.h" />
-    <ClInclude Include="Queue\Queue.h" />
+    <ClInclude Include="LinkedList\LinkedList.h" />
+    <ClInclude Include="LinkedList\CircularList.h" />
+    <ClInclude Include="LinkedList\DNode.h" />
+    <ClInclude Include="LinkedList\DoublyLinkedList.h" />
     <ClInclude Include="Recursion\Recursion.h" />
-    <ClInclude Include="Stack\ArrayStack.h" />
     <ClInclude Include="Stack\Stack.h" />
+    <ClInclude Include="Stack\ArrayStack.h" />
+    <ClInclude Include="Queue\Queue.h" />
+    <ClInclude Include="Queue\CircularQueue.h" />
     <ClInclude Include="Tree\BST.h" />
     <ClInclude Include="Tree\ExpressionTree.h" />
     <ClInclude Include="Tree\TreeNode.h" />
